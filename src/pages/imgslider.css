@@ -1,0 +1,32 @@
+.whyimg {
+	margin-right:10px;
+	width: 150px;
+	border-radius: 20%;
+  }
+  
+  .wine-row {
+	display: flex;
+	flex-direction: row;
+	height: 210px;
+	padding-top: 60px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	width: 100%;
+	
+  }
+  h2 {
+	  text-align: center;
+	  font-weight: bold;
+	  font-size: 40px;
+	  padding-bottom: 0;
+  }
+  .wine-text-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-right: 5%;
+  }
+  .sum {
+	  padding-top: 150px;
+  }
